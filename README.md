@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradunya Suryawanshi</h1>
-<h3 align="center">An ambitious and Self-motivated full stack web developer. Self-disciplined and
+<h3 align="center">An ambitious and Self-motivated frontend developer. Self-disciplined and
 goal-oriented professional capable of completing assignments within a given
 timeline. Team collaborator with good communication and interpersonal skills
 who can adapt to new ideas and create innovative solutions. Look forward to
